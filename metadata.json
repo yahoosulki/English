@@ -1,0 +1,6 @@
+{
+  "name": "대구미래역량 AI 채점기",
+  "description": "대구미래역량 교육과정 각론의 일반적 채점 기준표를 반영하여, 학생들의 논술형/쓰기 답안을 자동으로 채점하고 개별 피드백을 제공하며 결과를 구글 시트에 기록하고 PDF로 인쇄할 수 있는 교사용 AI 채점 도구입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
